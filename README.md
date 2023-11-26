@@ -8,4 +8,3 @@ go in context folder and check -> trackingcontext.js for interactions bw solidit
 
 
 check the index file and table and form components mainly 
->>>>>>> f5373d24385e44ff79e1fc53d7c144009986ed4e
